@@ -1,4 +1,4 @@
-package com.example.fullstop.ui.theme
+package com.example.fullstop.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

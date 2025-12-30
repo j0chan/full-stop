@@ -1,4 +1,4 @@
-package com.example.fullstop.ui.theme
+package com.example.fullstop.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
